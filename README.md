@@ -23,10 +23,6 @@
 
 <!--
 **debauchery1st/debauchery1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=debauchery1st&show_icons=true&theme=radical)
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)](https://github.com/LordDashMe/github-contribution-stats/)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
