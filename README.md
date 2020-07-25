@@ -17,12 +17,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debauchery1st)](https://github-readme-stats.vercel.app/api/top-langs/?username=debauchery1st)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)
+
 
 
 <!--
 **debauchery1st/debauchery1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debauchery1st)](https://github-readme-stats.vercel.app/api/top-langs/?username=debauchery1st)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
