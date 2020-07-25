@@ -7,7 +7,6 @@
   </samp>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=debauchery1st&show_icons=true)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -22,6 +21,7 @@
 
 <!--
 **debauchery1st/debauchery1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=debauchery1st&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debauchery1st)](https://github-readme-stats.vercel.app/api/top-langs/?username=debauchery1st)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)](https://github-contribution-stats.vercel.app/api/?username=debauchery1st)
