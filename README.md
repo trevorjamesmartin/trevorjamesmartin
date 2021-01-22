@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ForkAwesome/Fork-Awesome/master/src/icons/svg/github-square.svg" width=100>
   <br><br>
-    I'm <a href="https://www.trevorjmartin.com/">Trevor Martin</a>, a graduate of <a href="http://www.lambdaschool.com/">Lambda School :school: </a> & an aspiring Software Engineer:computer:. I am focused on 🕸 Full Stack Web and 🔭 I am a Technical Project Lead for the Lambda Labs Program. I love writing code and :bulb: I may have already contributed to your open source project.
+    I'm <a href="https://www.trevorjmartin.com/">Trevor Martin</a>, a graduate of the <a href="http://www.lambdaschool.com/">Lambda School :school: </a> 🕸 Full Stack Web program and 🔭 a Technical Project Lead in the Lambda Labs Program. I love writing code and :bulb: I may have already contributed to your open source project.
 <br><br>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
