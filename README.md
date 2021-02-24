@@ -6,6 +6,7 @@
 <br><br>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-green?style=flat-square&logo=TypeScript">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <img alt="React" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react">
 <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
